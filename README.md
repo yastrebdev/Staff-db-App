@@ -29,5 +29,3 @@ The application has its own server where the database of the added employees/cli
 - [ ] Statistics page
 
 ## Video demonstration
-
-https://github.com/yastrebdev/Staff-db-App/assets/81871985/6e98be81-3b2f-4d67-97f3-ece4e43b1bad
