@@ -29,3 +29,5 @@ The application has its own server where the database of the added employees/cli
 - [ ] Statistics page
 
 ## Video demonstration
+
+Uploading shortly about the project.mp4…
